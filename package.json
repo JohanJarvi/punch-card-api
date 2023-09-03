@@ -1,0 +1,19 @@
+{
+  "name": "punch-card-api",
+  "version": "1.0.0",
+  "description": "Cloud save API layer for Punch Card users",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "API",
+    "Express"
+  ],
+  "author": "Johan Jarvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohanJarvi/punch-card-api/issues"
+  },
+  "homepage": "https://github.com/JohanJarvi/punch-card-api#readme"
+}
