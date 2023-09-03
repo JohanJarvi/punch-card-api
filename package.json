@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JohanJarvi/punch-card-api/issues"
   },
-  "homepage": "https://github.com/JohanJarvi/punch-card-api#readme"
+  "homepage": "https://github.com/JohanJarvi/punch-card-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
